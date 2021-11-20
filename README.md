@@ -12,3 +12,7 @@ Functionality includes:
  - calculating other orbit-related quantities
 
 grid_earth.jpg source: http://www.genlogic.com/free_map_server.html
+
+
+Example:
+![Example of terminal commands and groundtrack plot.](https://github.com/aklein4/Orbit-Propogator/blob/main/Example%20Images/sat_groundtrack_example.jpg)
